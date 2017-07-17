@@ -15,6 +15,7 @@ namespace newApplication
         public Form1()
         {
             InitializeComponent();
+            //源代码管理测试
         }
     }
 }
